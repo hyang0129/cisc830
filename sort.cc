@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<algorithm>
-#define THREAD_MAX 8
+#define THREAD_MAX 4
 #define MAX 10000000
 #include <time.h>
 #include <pthread.h>
