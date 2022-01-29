@@ -2,7 +2,7 @@
 #include<string.h>
 #include<algorithm>
 #define THREAD_MAX 4
-#define MAX 10000000
+#define MAX 100000000
 #include <time.h>
 #include <pthread.h>
 #include <iostream>
