@@ -18,3 +18,5 @@ do
 	fi
 done
 printf "correct: ${correct_cnt}\n"
+
+$SHELL
