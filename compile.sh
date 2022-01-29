@@ -1,1 +1,1 @@
-g++ sort.cc -o sort
+g++ sort.cc -o sort -lpthread
